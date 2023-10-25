@@ -18,7 +18,7 @@
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
-## Use Cases
+## Help
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [NNS Import](help/nns-import.md)
+* [🖥 For Developers](help/for-developers.md)
