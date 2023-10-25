@@ -35,7 +35,9 @@ We do not gain any access per se, nor do we manipulate your neurons.
 
 Each neuron has a Neuron Account, through which neuron extraction records can be imported automatically.
 
-There is **no theoretical risk** in this operation
+There is **no theoretical risk** in this operation.
+
+But will be some handy information missing.
 
 ### **Step:**
 
