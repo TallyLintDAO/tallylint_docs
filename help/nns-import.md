@@ -27,7 +27,7 @@ We do not gain any access per se, nor do we manipulate your neurons.
 3.  Click **Add Hotkey**
 
     <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Add Hotkey</p></figcaption></figure>
-4. Each site generates a different **Principal ID**, enter your TaxLint **Principal ID**.
+4. Each site generates a different **Principal ID**, enter TaxLint **Principal ID** in the input.
 
 ## Use Neuron Account&#x20;
 
