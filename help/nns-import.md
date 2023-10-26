@@ -45,7 +45,7 @@ But will be some handy information missing.
 2. Selection of neurons to be counted
 3.  Find **Neuron** **Account** and copy it
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Find Neuron Account</p></figcaption></figure>
 4. Enter Neuron Account into TaxLint
 
 
