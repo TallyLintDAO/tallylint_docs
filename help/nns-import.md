@@ -10,17 +10,17 @@ description: How to get Neuron Info
 
 ## Use Hotkey
 
-### Description:&#x20;
-
 With Hotkey, it is possible to import your neuronal information automatically.
 
+{% hint style="warning" %}
 **Necessary Note:** This will authorise our website certain permissions to operate your neurons.
+{% endhint %}
 
 Don't worry though, we only get this access if you log into our site via **Internet Identity**.&#x20;
 
 We do not gain any access per se, nor do we manipulate your neurons.
 
-### Step:&#x20;
+### Step&#x20;
 
 1. Log in NNS ([https://nns.ic0.app/](https://nns.ic0.app/))
 2. Selection of neurons to be counted
@@ -29,9 +29,7 @@ We do not gain any access per se, nor do we manipulate your neurons.
     <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Add Hotkey</p></figcaption></figure>
 4. Enter the **Principal ID** in TaxLint.
 
-## Use Neuron Account
-
-### Description:&#x20;
+## Use Neuron Account&#x20;
 
 Each neuron has a Neuron Account, through which neuron extraction records can be imported automatically.
 
@@ -39,7 +37,7 @@ There is **no theoretical risk** in this operation.
 
 But will be some handy information missing.
 
-### **Step:**
+### **Step**
 
 1. Log in NNS ([https://nns.ic0.app/](https://nns.ic0.app/))
 2. Selection of neurons to be counted
