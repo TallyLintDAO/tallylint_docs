@@ -23,11 +23,11 @@ We do not gain any access per se, nor do we manipulate your neurons.
 ### Step&#x20;
 
 1. Log in NNS ([https://nns.ic0.app/](https://nns.ic0.app/))
-2. Selection of neurons to be counted
+2. Select the neurons to be imported
 3.  Click **Add Hotkey**
 
     <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Add Hotkey</p></figcaption></figure>
-4. Enter the **Principal ID** in TaxLint.
+4. Each site generates a different **Principal ID**, enter your TaxLint **Principal ID**.
 
 ## Use Neuron Account&#x20;
 
