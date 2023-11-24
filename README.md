@@ -44,14 +44,6 @@ With TaxLint, users will be able to record, track and calculate tax information 
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="help/nns-import.md" %}
+[nns-import.md](help/nns-import.md)
 {% endcontent-ref %}

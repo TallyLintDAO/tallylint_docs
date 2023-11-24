@@ -2,7 +2,7 @@
 description: How to get Neuron Info
 ---
 
-# NNS Import
+# ⚙ NNS Import
 
 {% hint style="info" %}
 **Option:** There are a total of two options for introducing neurons
