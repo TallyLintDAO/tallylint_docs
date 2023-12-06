@@ -36,10 +36,6 @@ With TaxLint, users will be able to record, track and calculate tax information 
 [what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
