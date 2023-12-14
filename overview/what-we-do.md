@@ -4,7 +4,7 @@
 
 When using regular virtual currency tax statistics platforms, there are often concerns about whether such centralised platforms can meet the privacy requirements of compliant web3 users. TaxLint is a **100% on-chain decentralised** application and we are committed to providing users with a private, secure web3 tax service.
 
-### Auto Tax Report
+### Tax Auto Report
 
 TaxLint is dedicated to reducing the cost of time and improving the user experience of cryptocurrencies on the Internet Computer.&#x20;
 
