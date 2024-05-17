@@ -22,7 +22,7 @@ In order to support IRCR1 tokens, TaxLint no longer supports wallet in the form 
 
 ## How to synchronize transaction history
 
-Select any ICRC1 tokens you want to synchronize
+Select the ICRC1 tokens you want to synchronize
 
 ### Step
 
