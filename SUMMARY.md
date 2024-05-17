@@ -8,4 +8,5 @@
 
 ## Help
 
-* [⚙ NNS Import](help/nns-import.md)
+* [📋 Synchronized transaction](help/synchronized-transaction.md)
+* [⚙️ NNS Import](help/nns-import.md)
