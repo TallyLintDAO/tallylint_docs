@@ -8,5 +8,5 @@
 
 ## Help
 
-* [📋 Synchronized transaction](help/synchronized-transaction.md)
+* [📋 Synchronized Transaction](help/synchronized-transaction.md)
 * [⚙️ NNS Import](help/nns-import.md)

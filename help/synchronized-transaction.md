@@ -2,13 +2,13 @@
 description: Complete process of synchronizing transaction
 ---
 
-# 📋 Synchronized transaction
+# 📋 Synchronized Transaction
 
 {% hint style="info" %}
 In order to support IRCR1 tokens, TaxLint no longer supports wallet in the form of Account ID, only Principal ID entered into wallet are supported now.
 {% endhint %}
 
-## How to get NNS wallet principal id
+## How to get NNS wallet Principal ID
 
 ### Step
 
