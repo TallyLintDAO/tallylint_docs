@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to TaxLint](README.md)
+* [👋 Welcome to TallyLint](README.md)
 
 ## Overview
 

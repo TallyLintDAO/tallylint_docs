@@ -1,5 +1,5 @@
 ---
-description: 100% on-chain, decentralised, private and secure tax experience.
+description: 100% on-chain, decentralised, private and secure coin tracker.
 cover: broken-reference
 coverY: 0
 layout:
@@ -18,17 +18,17 @@ layout:
     visible: true
 ---
 
-# 👋 Welcome to TaxLint
+# 👋 Welcome to TallyLint
 
 {% hint style="warning" %}
-**TaxLint in beta**, may cause some problems.
+TallyLint**in beta**, may cause some problems.
 {% endhint %}
 
 ## Overview
 
-TaxLint is designed to help users of ICPs to count and manage their tax information more easily.
+Are you troubled by how to check your assets? Still worried about how to track your profits?
 
-With TaxLint, users will be able to record, track and calculate tax information related to their transactions and assets in the IC ecosystem.
+TallyLint counts the profits of transaction for you.
 
 ## Quick links
 

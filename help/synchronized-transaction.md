@@ -5,7 +5,7 @@ description: Complete process of synchronizing transaction
 # 📋 Synchronized Transaction
 
 {% hint style="info" %}
-In order to support IRCR1 tokens, TaxLint no longer supports wallet in the form of Account ID, only Principal ID entered into wallet are supported now.
+In order to support IRCR1 tokens, TallyLint no longer supports wallet in the form of Account ID, only Principal ID entered into wallet are supported now.
 {% endhint %}
 
 ## How to get NNS wallet Principal ID
@@ -27,6 +27,6 @@ Select the ICRC1 tokens you want to synchronize
 ### Step
 
 1. Click 'Sync All Wallets' Button
-2. Select the tokens you want to synchronize transaction history with and click the ADD button.&#x20;
+2. Select the tokens you want to synchronize transaction history with and click the ADD button.
 3. After adding all the tokens for which you want to synchronize the transaction history, click the “Synchronize all wallets” button under the current window.
 4. When synchronization is complete, you can view all the transactions you have synchronized on the Transactions page.
