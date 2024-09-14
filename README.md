@@ -1,11 +1,11 @@
 ---
 description: 100% on-chain, decentralised, private and secure coin tracker.
-cover: .gitbook/assets/dashboard.png
-coverY: 95.32122905027933
+cover: .gitbook/assets/tallylint.png
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
