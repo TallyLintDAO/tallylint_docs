@@ -1,7 +1,7 @@
 ---
 description: 100% on-chain, decentralised, private and secure coin tracker.
-cover: broken-reference
-coverY: 0
+cover: .gitbook/assets/dashboard.png
+coverY: 95.32122905027933
 layout:
   cover:
     visible: true
