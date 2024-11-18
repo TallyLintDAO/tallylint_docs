@@ -21,7 +21,7 @@ layout:
 # 👋 Welcome to TallyLint
 
 {% hint style="warning" %}
-TallyLint**in beta**, may cause some problems.
+TallyLint **in beta**, may cause some problems.
 {% endhint %}
 
 ## Overview
